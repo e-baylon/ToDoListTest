@@ -11,12 +11,12 @@
     "author": "Eriel Baylon",
     "license": "ISC",
     "devDependencies": {
+        "@parcel/transformer-sass": "^2.0.0-alpha.3",
         "http-server": "^13.0.2",
         "parcel": "^2.0.0-rc.0",
         "sass": "^1.42.1"
     },
     "dependencies": {
-        "@parcel/transformer-sass": "^2.0.0-alpha.3",
         "ejs": "^3.1.6",
         "lodash": "^4.17.21",
         "uuid": "^8.3.2"
